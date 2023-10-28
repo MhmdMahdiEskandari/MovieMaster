@@ -1,0 +1,4 @@
+product\Product.class
+product\ProductDB.class
+product\ProductService.class
+product\ProductSpringApplication.class
